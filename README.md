@@ -1,2 +1,2 @@
-# kodland2
+# kodland
 first dictionary in kodland
